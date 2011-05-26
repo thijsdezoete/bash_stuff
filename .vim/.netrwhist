@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/thijs/projects/erlang/RD/ssm/apps/data/src'
+let g:netrw_dirhist_2='/home/thijs/projects/erlang/RD/ssm/apps/data'
+let g:netrw_dirhist_3='/home/thijs/projects/erlang/RD/ssm/apps/data/src'
+let g:netrw_dirhist_4='/home/thijs/projects/erlang/RD/ssm'
+let g:netrw_dirhist_5='/home/thijs/projects/erlang/RD/ssm/apps'
+let g:netrw_dirhist_6='/home/thijs/projects/erlang/RD/ssm/apps/usm'
+let g:netrw_dirhist_7='/home/thijs/projects/erlang/RD/ssm/apps/usm/src'
